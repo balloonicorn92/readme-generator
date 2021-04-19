@@ -1,5 +1,5 @@
 
-# fer
+# Find the Brew
 -----------------------
 ## Table of Contents
 - Introduction
@@ -10,19 +10,19 @@
 
 -----------------------
 ### Introduction
-fer
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas iusto nemo culpa, repellendus optio saepe explicabo! Veritatis nisi corporis atque qui mollitia adipisci exercitationem, nulla praesentium ipsam vero, labore reprehenderit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel fugiat facere numquam commodi totam, nulla eveniet earum voluptatibus aliquam ab dolores eum hic, incidunt minima illo deserunt porro, temporibus sunt.
 
 -----------------------
 ### Installation
-fer
+Simply open HTML on browser
 
 -----------------------
 ### Technologies used
-JavaScript Bootstrap Node
+JavaScript JQuery Bootstrap HTML CSS
 
 -----------------------
 ### Maintainers
-ghfjg
+Josh Mitchel:  Github: jshmtchl.github.com Email: jshmtchl@gmail.com
 
 -----------------------
 #### License
