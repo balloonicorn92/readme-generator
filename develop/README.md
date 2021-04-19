@@ -10,19 +10,20 @@
 
 -----------------------
 ### Introduction
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas iusto nemo culpa, repellendus optio saepe explicabo! Veritatis nisi corporis atque qui mollitia adipisci exercitationem, nulla praesentium ipsam vero, labore reprehenderit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel fugiat facere numquam commodi totam, nulla eveniet earum voluptatibus aliquam ab dolores eum hic, incidunt minima illo deserunt porro, temporibus sunt.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus hendrerit, nunc eget placerat dictum, lacus lectus iaculis nunc, sed faucibus risus velit non purus. Aenean euismod sagittis gravida. Praesent aliquam metus quis quam eleifend, eget semper nisl euismod. Quisque tempus in turpis et tincidunt. Suspendisse fermentum lectus purus, vitae pharetra diam dapibus eu. Aenean nisl nunc, rhoncus at velit vel, viverra feugiat ex. Sed mi sapien, consequat a sem nec, molestie lobortis lectus. Phasellus lacinia lectus id orci sagittis, at interdum nulla consequat. Aenean eget suscipit purus.
 
 -----------------------
 ### Installation
-Simply open HTML on browser
+
+Simply run node index on your terminal
 
 -----------------------
 ### Technologies used
-JavaScript JQuery Bootstrap HTML CSS
+JavaScript JQuery Bootstrap
 
 -----------------------
 ### Maintainers
-Josh Mitchel:  Github: jshmtchl.github.com Email: jshmtchl@gmail.com
+Josh Mitchell github: jshmtchl.github.com
 
 -----------------------
 #### License
